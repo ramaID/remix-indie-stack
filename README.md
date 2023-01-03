@@ -35,7 +35,7 @@ Click this button to create a [Gitpod](https://gitpod.io) workspace with the pro
 ## Development
 
 - This step only applies if you've opted out of having the CLI install dependencies for you:
-  
+
   ```sh
   npx remix init
   ```
@@ -56,8 +56,8 @@ This starts your app in development mode, rebuilding assets on file changes.
 
 The database seed script creates a new user with some data you can use to get started:
 
-- Email: `rachel@remix.run`
-- Password: `racheliscool`
+- Email: `rama@remix.run`
+- Password: `secret`
 
 ### Relevant code:
 
